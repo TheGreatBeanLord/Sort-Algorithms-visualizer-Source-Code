@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjHdTkIFRJN+aQVruyuI3ywbPtz4/1IesVjOumAihO1heEMQvKyUo/7fyN38J/MIQJbfehM90QFFm53w9NjRqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arcan\\source\\repos\\Sort Algorithms Visualizer\\Sort Algorithms Visualizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arcan\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\arcan\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

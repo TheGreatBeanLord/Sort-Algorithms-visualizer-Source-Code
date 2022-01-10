@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/arcan/source/repos/Sort Algorithms Visualizer/Content/1x1_#ffffffff.png","C:/Users/arcan/source/repos/Sort Algorithms Visualizer/Content/bin/DesktopGL/1x1_#ffffffff.xnb","TextureProcessor","Texture2DContent",83,89,0.3197815
+"C:/Users/arcan/source/repos/Sort Algorithms Visualizer/Content/Courrier.spritefont","C:/Users/arcan/source/repos/Sort Algorithms Visualizer/Content/bin/DesktopGL/Courrier.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.0863166

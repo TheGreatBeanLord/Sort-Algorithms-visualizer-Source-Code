@@ -1,0 +1,26 @@
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Content\1x1_#ffffffff.xnb
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.exe
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.deps.json
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.runtimeconfig.json
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.runtimeconfig.dev.json
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Sort Algorithms Visualizer.pdb
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.csprojAssemblyReference.cache
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.AssemblyInfoInputs.cache
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.AssemblyInfo.cs
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.csproj.CopyComplete
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.dll
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.pdb
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\obj\Debug\netcoreapp3.1\Sort Algorithms Visualizer.genruntimeconfig.cache
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Content\Courrier.xnb
+C:\Users\arcan\source\repos\Sort Algorithms Visualizer\bin\Debug\netcoreapp3.1\Content\File.xnb
